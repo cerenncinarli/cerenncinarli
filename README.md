@@ -19,6 +19,6 @@
 - WebSocket real-time chat  
 
 ### 🔗 Connect
-[LinkedIn](www.linkedin.com/in/ceren-çınarlı) 
-| 📧 cerenn.cinarli@gmail.comcom  
+[LinkedIn](https://www.linkedin.com/in/ceren-cinarli)
+📧 cerenn.cinarli@gmail.com
 
